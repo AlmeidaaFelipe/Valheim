@@ -13,7 +13,7 @@ mod requires the other to be installed.
 character owner is the client, not the server). Does not need to be installed on the
 server.
 
-Source code: https://github.com/AlmeidaaFelipe/HotbarDeathKeeper
+Source code: https://github.com/AlmeidaaFelipe/Valheim/tree/main/mods/HotbarDeathKeeper
 
 ## Why this mod exists
 
