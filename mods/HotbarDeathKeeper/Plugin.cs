@@ -22,7 +22,7 @@ namespace HotbarDeathKeeper
     {
         public const string PluginGUID = "hdk.valheim.hotbardeathkeeper";
         public const string PluginName = "Hotbar Death Keeper";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         /// <summary>BepInEx GUIDs of mods this plugin interacts with by load order only.</summary>
         private static class DependencyGuids

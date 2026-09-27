@@ -60,6 +60,9 @@ MIT License - see [LICENSE.txt](LICENSE.txt). Free to use, modify, and redistrib
 
 ## Changelog
 
+### 1.0.1
+- Fixed broken source code link in documentation.
+
 ### 1.0.0
 - First version published on Thunderstore.
 - Keeps vanilla hotbar items (slots 1-8) equipped after death.

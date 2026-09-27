@@ -1,7 +1,7 @@
 # valheim
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![HotbarDeathKeeper](https://img.shields.io/badge/HotbarDeathKeeper-v1.0.0-blue.svg)](mods/HotbarDeathKeeper/README.md)
+[![HotbarDeathKeeper](https://img.shields.io/badge/HotbarDeathKeeper-v1.0.1-blue.svg)](mods/HotbarDeathKeeper/README.md)
 
 Open-source collection of Valheim mods, ranging from small quality-of-life tweaks to
 larger gameplay changes.

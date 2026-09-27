@@ -1,7 +1,7 @@
 {
   "name": "HotbarDeathKeeper",
   "author": "AlmeidaaFelipe",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/AlmeidaaFelipe/valheim",
   "description": "Keeps vanilla hotbar (slots 1-8) items on your character after death instead of losing them to the tombstone. Complements ExtraSlots, which only covers its own extra slot categories.",
   "dependencies": [
