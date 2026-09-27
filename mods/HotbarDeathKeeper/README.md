@@ -1,7 +1,5 @@
 # HotbarDeathKeeper
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 A Valheim BepInEx mod that keeps your vanilla hotbar items (slots 1-8: weapon, shield,
 tool, torch, etc) equipped after death, instead of losing them to the tombstone.
 
